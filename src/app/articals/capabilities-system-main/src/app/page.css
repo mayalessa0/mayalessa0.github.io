@@ -1,0 +1,201 @@
+
+
+.container{
+    position: absolute;
+    height: 550px ;
+    width: 430px;
+    background-color:rgb(161, 146, 248);
+ 
+
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-left: 33%;
+    margin-bottom: 60px;
+    box-shadow: 10px 10px 30px rgba(3, 3,3, 2);
+}
+
+h2{  color:rgb(161, 146, 248);
+
+}
+.checkbox{ margin-right: 40%;}
+.text{
+    height:40px;
+    width:250px;
+    background-color: rgb(240, 248, 246);
+    align-items: center;
+    margin:155px;
+    margin-top:55px;
+    margin-left:95px;
+   border-radius: 10px;
+   position:absolute;
+   }
+   
+   .btn{
+       border-radius:2px;
+       position: absolute;
+       margin-left:164px;
+       margin-top:122px;
+   
+       width: 125px;
+    background-color: rgba(86, 87, 160, 0.589);    color: white;
+       
+            
+   }
+    .btn:hover{
+      background-color: rgb(122, 62, 156);
+    }
+   
+   
+    .link{
+      
+      font-size: small;
+       margin-left:112px;
+       margin-top:122px;
+   color: rgba(42, 43, 112, 0.589);
+      
+       color: white;
+       
+         
+   }
+    .link:hover{
+          color: rgb(104, 107, 247);
+    }
+    .h6{
+      
+       font-size: small;
+        margin-left:119px;
+        margin-top:20px;
+    color: rgba(42, 43, 112, 0.589);
+       
+        color: rgba(255, 255, 255, 0.63);
+        font-size: 5px;
+          
+    }
+   
+   
+   input{
+       margin-left: 10px;
+       padding: 10px
+   }
+   /* body{
+       background: rgb(149, 252, 247);
+ 
+   
+   } */
+   /* label{
+       padding-left: 12px;
+   } */
+   
+   /* h1{
+       margin-left: 250px;
+       color:white;
+       font-size:large;
+       font-family: "Permanent Marker", cursive;
+       font-weight: 400;
+       font-style: normal;
+       font-size: x-large;
+   } */
+   .h1{
+       margin-left: 420px;
+       color:white;
+       font-size:large;
+       align-items: center;
+   }
+   .avatar{
+       border-radius: 50%;
+       width: 100px;
+       height: 100px;
+       margin-left: 269px;
+       background-color: rgb(249, 248, 250);
+   }
+
+   .text{
+    height:40px;
+    width:250px;
+    background-color: rgb(240, 248, 246);
+    align-items: center;
+    margin:155px;
+    margin-top:55px;
+    margin-left:95px;
+   border-radius: 20px;
+   position:absolute;
+   }
+   
+   .btn{
+       border-radius:12px;
+       position: absolute;
+       margin-left:164px;
+       margin-top:122px;
+   
+       width: 125px;
+    background-color: rgba(86, 87, 160, 0.589);    color: white;
+       
+            
+   }
+    .btn:hover{
+      background-color: rgb(122, 62, 156);
+    }
+   
+   
+    .link{
+      
+      font-size: small;
+       margin-left:152px;
+       margin-top:122px;
+   color: rgba(42, 43, 112, 0.589);
+      
+       color: white;
+       
+         
+   }
+    .link:hover{
+          color: rgb(104, 107, 247);
+    }
+    .h6{
+      
+       font-size: small;
+        margin-left:159px;
+        margin-top:20px;
+    color: rgba(42, 43, 112, 0.589);
+       
+        color: rgba(255, 255, 255, 0.63);
+        font-size: 5px;
+          
+    }
+   
+   
+   input{
+       margin-left: 10px;
+       padding: 10px
+   }
+   body{
+       background: rgb(59, 30, 84);
+   
+   
+   }
+   /* label{
+       padding-left: 12px;
+   } */
+   
+   h1{
+       margin-left: 169px;
+       color:white;
+       font-size:large;
+       font-family: "Permanent Marker", cursive;
+       font-weight: 400;
+       font-style: normal;
+       font-size: x-large;
+   }
+   .h1{
+       margin-left: 103px;
+       color:white;
+       font-size:large;
+   }
+   .avatar{
+       border-radius: 50%;
+       width: 100px;
+       height: 100px;
+       margin-left: 169px;
+       background-color: rgb(249, 248, 250);
+   }
+      
