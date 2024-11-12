@@ -7,6 +7,7 @@ const RegisterPage = () => {
             <div className='m-auto bg-white rounded-lg p-5 w-full md:w-2/3 border-green-100 border-2'>
                 <h1 className='text-3xl font-bold text-secondry mb-5 font-bodyFont'>Create account</h1>
                 <RegisterForm />
+                <h1>Hello world!</h1>
             </div>
 
         </section>
